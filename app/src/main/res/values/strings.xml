@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BankList</string>
+    <string name="bank_name">%1$s - %2$s</string>
+    <string name="bank_search_hint">Instituição Financeira</string>
 </resources>
